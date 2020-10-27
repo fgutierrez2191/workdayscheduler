@@ -1,5 +1,17 @@
-<<<<<<< HEAD
-# Work Day Scheduler Starter Code
-=======
-# workdayscheduler
->>>>>>> b52421452bd7e626f928c45809e3129404a693d7
+# Workday Scheduler
+
+## Purpose 
+A website that offers to help you keep track of your daily todo's for your 9-5 workday.
+
+## Built With
+*HTML
+*CSS
+*Javascript
+*jquery
+*momentJs
+
+## Website
+https://fgutierrez2191.github.io/workdayscheduler/.
+
+## Contribution
+Made with ❤️ by [Felix Gutierrez]
